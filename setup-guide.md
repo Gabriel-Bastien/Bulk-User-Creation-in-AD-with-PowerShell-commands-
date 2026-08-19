@@ -4,7 +4,7 @@ This walkthrough documents, step by step, how a real onboarding ticket was resol
 
 ## 1. Start from the ticket
 
-The request came in through the helpdesk: HR needed roughly 50 AD accounts created before Monday's onboarding.
+The request came in through the helpdesk: HR needed 10 AD accounts created before Monday's onboarding.
 
 ![Support ticket requesting bulk user creation](screenshots/01-support-ticket.png)
 

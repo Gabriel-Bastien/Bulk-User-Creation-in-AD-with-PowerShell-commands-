@@ -1,3 +1,0 @@
-Firstname,Lastname,Username,OU,Description,Password
-Daniel,James,djames,"OU=HR,DC=yourdomain,DC=com",Facilitate employee relations,ChangeMe#1234
-Tammy,Abel,tabel,"OU=IT,DC=yourdomain,DC=com",Handle internal company tickets,ChangeMe#1234
